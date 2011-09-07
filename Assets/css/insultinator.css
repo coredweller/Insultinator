@@ -1,0 +1,16 @@
+.buttontext
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 5px;
+}
+
+.soundcliptext
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	margin-top: 5px;
+	color: #333333;
+}
